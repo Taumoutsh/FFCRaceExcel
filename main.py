@@ -140,5 +140,5 @@ if __name__ == "__main__":
 
         row += 1
 
-    worksheet.autofilter(0, 4, 200, 4)
+    worksheet.autofilter(0, 1, 200, 1)
     workbook.close()
